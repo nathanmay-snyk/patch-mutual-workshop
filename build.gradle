@@ -51,7 +51,7 @@ dependencies {
 
 
 
-    implementation 'com.fasterxml.jackson.core:jackson-databind:2.18.9'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.18.11'
     implementation 'com.fasterxml.jackson.core:jackson-core:2.18.7'
     implementation 'com.fasterxml.jackson.core:jackson-annotations:2.18.9'
 
